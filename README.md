@@ -1,7 +1,7 @@
-# **Melanoma Detection Using Machine Learning Techniques**
+# **Skin Cancer Detection Using Machine Learning Techniques**
 
 ## **Title of the Project**
-**Melanoma Detection Using Machine Learning Techniques**
+**Skin Cancer Detection Using Machine Learning Techniques**
 
 
 
